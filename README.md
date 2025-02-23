@@ -9,7 +9,7 @@ By Gunout
 
 # Shoutcast Configuration ( server )
 
-Configure ton server (ligne  ):
+Configure ton server (ligne 50 a 78 ):
 
 
         ; Configuration de base pour Shoutcast Server
