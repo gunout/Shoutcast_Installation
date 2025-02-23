@@ -42,6 +42,13 @@ Automate Shoutcast Installation &amp;&amp; Configuration
     chmod +x shoutcast_config.sh
     sudo ./shoutcast_config.sh
 
-By Gunout 2025
+#Si apres l'installation ton server n'est pas actif utilise :
+
+        chmod +x fix_shoutcast.sh
+        sudo ./fix_shoutcast.sh
+
+
+
+__________________________________________________________   By Gunout 2025 ____.
 
         
