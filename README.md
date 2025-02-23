@@ -1,12 +1,3 @@
-# Shoutcast_Installation && Configuration 
-Automate Shoutcast Installation &amp;&amp; Configuration 
-
-
-    chmod +x shoutcast_config.sh
-    sudo ./shoutcast_config.sh
-
-By Gunout
-
 # Shoutcast Configuration ( server )
 
 Configure ton server (ligne 50 a 78 ):
@@ -43,3 +34,14 @@ Configure ton server (ligne 50 a 78 ):
 
         ; Bitrate (128 kbps par défaut)
         bitrate=128
+
+# Shoutcast_Installation 
+Automate Shoutcast Installation &amp;&amp; Configuration 
+
+
+    chmod +x shoutcast_config.sh
+    sudo ./shoutcast_config.sh
+
+By Gunout 2025
+
+        
